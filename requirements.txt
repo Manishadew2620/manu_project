@@ -3,3 +3,6 @@ emoji
 typing option
 color
 vibrant
+
+dark mode 
+vedio options
